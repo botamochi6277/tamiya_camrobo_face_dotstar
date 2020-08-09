@@ -13,3 +13,5 @@ This board is designed for Raspberry Pi.
 - Speaker: Small speaker you can buy from [AKIZUKI](http://akizukidenshi.com/catalog/g/gP-10128/). You need replace it because the speaker works in 3V (I failed to select.)
 
 The board in v1.0 (photo version) have no wire between `IN-` and `GND`. I added wire for the connection. 
+
+LICENCE: [Open Source Hardware](https://www.oshwa.org/definition/)
